@@ -1,8 +1,8 @@
-
+import Nav from '../src/views/Nav'
 function App() {
   return (
     <div>
-      <p>Hello World</p>
+      <Nav />
     </div>
   );
 }
